@@ -1,3 +1,3 @@
-# Projet documentation DI.
+# Projet de documentation.
 ## Composer
-[Patch](/composer/patch.md)
+[Composer patch](/composer/patch.md)
