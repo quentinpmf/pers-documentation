@@ -1,2 +1,3 @@
-# doc-di
-Documentation DI
+# Projet documentation DI.
+## Composer
+[Patch](/composer/patch.md)
